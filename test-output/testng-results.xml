@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="67" total="76" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-05T22:21:41 IST" name="Suite" finished-at="2022-01-05T22:21:41 IST" duration-ms="158">
+    <groups>
+      <group name="apple">
+        <method signature="Class2_20_to_40.test24()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" name="test24" class="taskonGRoopinG_80_methods.Class2_20_to_40"/>
+        <method signature="Class2_20_to_40.test25()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" name="test25" class="taskonGRoopinG_80_methods.Class2_20_to_40"/>
+        <method signature="Class2_20_to_40.test32()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" name="test32" class="taskonGRoopinG_80_methods.Class2_20_to_40"/>
+        <method signature="Class2_20_to_40.test37()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" name="test37" class="taskonGRoopinG_80_methods.Class2_20_to_40"/>
+      </group> <!-- apple -->
+      <group name=" sanity">
+        <method signature="Class1_0_to_20.twenty()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" name="twenty" class="taskonGRoopinG_80_methods.Class1_0_to_20"/>
+      </group> <!--  sanity -->
+      <group name="lava">
+        <method signature="Class2_20_to_40.test32()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" name="test32" class="taskonGRoopinG_80_methods.Class2_20_to_40"/>
+      </group> <!-- lava -->
+      <group name="realme">
+        <method signature="Class2_20_to_40.test24()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" name="test24" class="taskonGRoopinG_80_methods.Class2_20_to_40"/>
+      </group> <!-- realme -->
+      <group name="regression">
+        <method signature="Class1_0_to_20.one()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" name="one" class="taskonGRoopinG_80_methods.Class1_0_to_20"/>
+        <method signature="Class1_0_to_20.six()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" name="six" class="taskonGRoopinG_80_methods.Class1_0_to_20"/>
+        <method signature="Class1_0_to_20.ten()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" name="ten" class="taskonGRoopinG_80_methods.Class1_0_to_20"/>
+        <method signature="Class1_0_to_20.twelve()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" name="twelve" class="taskonGRoopinG_80_methods.Class1_0_to_20"/>
+        <method signature="Class1_0_to_20.twenty()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" name="twenty" class="taskonGRoopinG_80_methods.Class1_0_to_20"/>
+      </group> <!-- regression -->
+      <group name="UAT">
+        <method signature="Class1_0_to_20.ten()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" name="ten" class="taskonGRoopinG_80_methods.Class1_0_to_20"/>
+      </group> <!-- UAT -->
+      <group name="oneplus">
+        <method signature="Class2_20_to_40.test25()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" name="test25" class="taskonGRoopinG_80_methods.Class2_20_to_40"/>
+        <method signature="Class2_20_to_40.test37()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" name="test37" class="taskonGRoopinG_80_methods.Class2_20_to_40"/>
+      </group> <!-- oneplus -->
+      <group name="S and F testing">
+        <method signature="Class1_0_to_20.six()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" name="six" class="taskonGRoopinG_80_methods.Class1_0_to_20"/>
+      </group> <!-- S and F testing -->
+    </groups>
+    <test started-at="2022-01-05T22:21:41 IST" name="Test" finished-at="2022-01-05T22:21:41 IST" duration-ms="158">
+      <class name="taskonGRoopinG_80_methods.Class2_20_to_40">
+        <test-method signature="test24()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" started-at="2022-01-05T22:21:41 IST" name="test24" finished-at="2022-01-05T22:21:41 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test24 -->
+        <test-method signature="test25()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" started-at="2022-01-05T22:21:41 IST" name="test25" finished-at="2022-01-05T22:21:41 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test25 -->
+        <test-method signature="test32()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" started-at="2022-01-05T22:21:41 IST" name="test32" finished-at="2022-01-05T22:21:41 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test32 -->
+        <test-method signature="test37()[pri:0, instance:taskonGRoopinG_80_methods.Class2_20_to_40@31368b99]" started-at="2022-01-05T22:21:41 IST" name="test37" finished-at="2022-01-05T22:21:41 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test37 -->
+      </class> <!-- taskonGRoopinG_80_methods.Class2_20_to_40 -->
+      <class name="taskonGRoopinG_80_methods.Class1_0_to_20">
+        <test-method signature="one()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" started-at="2022-01-05T22:21:41 IST" name="one" finished-at="2022-01-05T22:21:41 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method signature="six()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" started-at="2022-01-05T22:21:41 IST" name="six" finished-at="2022-01-05T22:21:41 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- six -->
+        <test-method signature="ten()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" started-at="2022-01-05T22:21:41 IST" name="ten" finished-at="2022-01-05T22:21:41 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ten -->
+        <test-method signature="twelve()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" started-at="2022-01-05T22:21:41 IST" name="twelve" finished-at="2022-01-05T22:21:41 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twelve -->
+        <test-method signature="twenty()[pri:0, instance:taskonGRoopinG_80_methods.Class1_0_to_20@6ca8564a]" started-at="2022-01-05T22:21:41 IST" name="twenty" finished-at="2022-01-05T22:21:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twenty -->
+      </class> <!-- taskonGRoopinG_80_methods.Class1_0_to_20 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suitesuitleve"> 
+<listeners>
+<listener class-name="listners.ClassLevel_listners2"></listener>
+</listeners>
+  <test thread-count="5" name="Testsuitleve">
+    <classes>
+      <class name="listners.SuitLevel_listners"/>
+    </classes>
+  </test> <!-- Testsuitleve -->
+</suite> <!-- Suitesuitleve -->

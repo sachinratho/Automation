@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Failed suite [Failed suite [Suite]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)(failed)(failed)">
+    <classes>
+      <class name="failed_test_cases2.Failed_test_cases_run2">
+        <methods>
+          <include name="mno"/>
+        </methods>
+      </class> <!-- failed_test_cases2.Failed_test_cases_run2 -->
+      <class name="failedTestCases.Failed_testcases_run">
+        <methods>
+          <include name="test22"/>
+        </methods>
+      </class> <!-- failedTestCases.Failed_testcases_run -->
+    </classes>
+  </test> <!-- Test(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->

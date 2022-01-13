@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="taskonGRoopinG_80_methods.Class3_40_to_60">
+        <methods>
+          <include name="test47"/>
+          <include name="test58"/>
+          <include name="test49"/>
+          <include name="test48"/>
+          <include name="test53"/>
+          <include name="test55"/>
+          <include name="test60"/>
+          <include name="test51"/>
+        </methods>
+      </class> <!-- taskonGRoopinG_80_methods.Class3_40_to_60 -->
+      <class name="taskonGRoopinG_80_methods.Class2_20_to_40">
+        <methods>
+          <include name="test36"/>
+          <include name="test26"/>
+          <include name="test34"/>
+          <include name="test32"/>
+          <include name="test30"/>
+          <include name="test27"/>
+          <include name="test38"/>
+          <include name="test28"/>
+        </methods>
+      </class> <!-- taskonGRoopinG_80_methods.Class2_20_to_40 -->
+      <class name="taskonGRoopinG_80_methods.Class4_60_to_80">
+        <methods>
+          <include name="test68"/>
+          <include name="test79"/>
+          <include name="test77"/>
+          <include name="test75"/>
+          <include name="test67"/>
+          <include name="test73"/>
+          <include name="test71"/>
+          <include name="test69"/>
+        </methods>
+      </class> <!-- taskonGRoopinG_80_methods.Class4_60_to_80 -->
+      <class name="taskonGRoopinG_80_methods.Class1_0_to_20">
+        <methods>
+          <include name="nine"/>
+          <include name="twenty"/>
+          <include name="seven"/>
+          <include name="eleven"/>
+          <include name="seventyne"/>
+          <include name="eight"/>
+          <include name="fiftyne"/>
+          <include name="thirtyne"/>
+        </methods>
+      </class> <!-- taskonGRoopinG_80_methods.Class1_0_to_20 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
